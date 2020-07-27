@@ -1,0 +1,64 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "nama": "Jaka JUnaedi",
+            "alamat": "Jakarta",
+            "nohp": "08971234567" 
+        },
+        {
+            "id": 2,
+            "nama": "Taufik",
+            "alamat": "Surabaya",
+            "nohp" : "-098765432"
+        },
+        {
+            "id": 3,
+            "nama": "Jaka JUnaedi",
+            "alamat": "Jakarta",
+            "nohp": "08971234567" 
+        },
+        {
+            "id": 4,
+            "nama": "Jaka JUnaedi",
+            "alamat": "Jakarta",
+            "nohp": "08971234567" 
+        },
+        {
+            "id": 5,
+            "nama": "Jaka JUnaedi",
+            "alamat": "Jakarta",
+            "nohp": "08971234567" 
+        },
+        {
+            "id": 6,
+            "nama": "Jaka JUnaedi",
+            "alamat": "Jakarta",
+            "nohp": "08971234567" 
+        },
+        {
+            "id": 7,
+            "nama": "Jaka JUnaedi",
+            "alamat": "Jakarta",
+            "nohp": "08971234567" 
+        },
+        {
+            "id": 8,
+            "nama": "Jaka JUnaedi",
+            "alamat": "Jakarta",
+            "nohp": "08971234567" 
+        },
+        {
+            "id": 9,
+            "nama": "Jaka JUnaedi",
+            "alamat": "Jakarta",
+            "nohp": "08971234567" 
+        },
+        {
+            "id": 10,
+            "nama": "Jaka JUnaedi",
+            "alamat": "Jakarta",
+            "nohp": "08971234567" 
+        }
+    ]
+}
