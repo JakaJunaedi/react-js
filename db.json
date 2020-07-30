@@ -14,44 +14,44 @@
         },
         {
             "id": 3,
-            "nama": "Adit Tes",
-            "alamat": "Jakarta",
+            "nama": "Adit",
+            "alamat": "Palembang",
             "nohp": "08971234567" 
         },
         {
             "id": 4,
-            "nama": "Jaka JUnaedi",
-            "alamat": "Jakarta",
-            "nohp": "08971234567" 
+            "nama": "Dwiki",
+            "alamat": "Semarang",
+            "nohp": "08973211231" 
         },
         {
             "id": 5,
-            "nama": "Jaka JUnaedi",
-            "alamat": "Jakarta",
-            "nohp": "08971234567" 
+            "nama": "Rama",
+            "alamat": "Batam",
+            "nohp": "0978897977" 
         },
         {
             "id": 6,
-            "nama": "Jaka JUnaedi",
-            "alamat": "Jakarta",
-            "nohp": "08971234567" 
+            "nama": "Johan",
+            "alamat": "Padang",
+            "nohp": "0899889322" 
         },
         {
             "id": 7,
-            "nama": "Jaka JUnaedi",
+            "nama": "Jumadi",
             "alamat": "Jakarta",
             "nohp": "08971234567" 
         },
         {
             "id": 8,
-            "nama": "Jaka JUnaedi",
-            "alamat": "Jakarta",
+            "nama": "Ilham",
+            "alamat": "Bali",
             "nohp": "08971234567" 
         },
         {
             "id": 9,
-            "nama": "Jaka JUnaedi",
-            "alamat": "Jakarta",
+            "nama": "Rani",
+            "alamat": "Bandung",
             "nohp": "08971234567" 
         },
         {
@@ -59,6 +59,12 @@
             "nama": "Anggi",
             "alamat": "Jakarta",
             "nohp": "08971237654" 
+        },
+        {
+            "id": 11,
+            "nama": "Citra",
+            "alamat": "Magelang",
+            "nohp": "0989894312"
         }
     ]
 }
